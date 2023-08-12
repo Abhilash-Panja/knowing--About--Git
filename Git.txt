@@ -45,6 +45,6 @@ this command we can able to :
  ->And creating the repo in Git hub and pushing the code into that repo
 ig git  remote origin ---link---
 and then git push --u origin branch name {master}
-->by using this command we can able to create new branch
+->by using this command we can able to create new branch and we can able to checkout into that branch
 ie check out -b Branch name
  
