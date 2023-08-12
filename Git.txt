@@ -1,0 +1,48 @@
+Hey Connections What ever the things should be as the Begineer in Git
+Before Deep dive into Git make sure that raise these questions in your mind 
+1.What is Git?
+2.When we use Git?
+3.How we use?
+Let we come to By answering one by one 
+1 ans.Git is an Version Control System
+2 ans.Before Knowing this answer we come to know that Git is an version control System 
+So from name itself we can come to know that which is having enough capable to controlling
+the Version .
+3 ans.To Know this answer we make our hands Dirty by doing some commands .
+Note:Frist thing we should set the credentials in proper Manner
+->for example as Begineer your supposed to set the credentials ,just by using
+this command we can able to :
+ git config --global user.name "name" 
+ git config --global user.email email
+ ->After excuting of this two commands we are succesfully changed the credentials
+ ->To check  this we make use of this command:
+ git config --list
+ ->And let we start to implement the git
+ ->Frist command:git init
+ ->Usage of the git init command to initialize
+ ->Checking the status of the file by using this file
+ ->  git status
+ -----------------------------------------------------------------------------------------
+ ->Let we deep dive into it Git consists of the four parts
+ 1.Working Directory
+ 2.Staging Area
+ 3.Local Repositry
+ 4.Remote Repositry
+ Same three Questions Should be raise in our mind  
+ ->ie What , When ,How 
+ ->So Knowing about the Working Directory ,it means where we write our code or content
+ ->And what is the use of the Staging Area ,Before knowing about Staging Area we should 
+ know about in which format files were sent in to the Local Repositry,it means it can 
+ able to take the blocks of files at a time not one by one ,So to overcome this 
+ Staging Area comes into Picture where we can able send in one by one format from 
+ working Directory to Staging Area.
+ ->By using this command we  can able to  add files in to Working Directory to Staging Area
+ git add file-name
+ to add multiple files into it we can make use this command
+ git add.
+ ->And by using this we can able to move the files from Staging Area to Local Repositry
+ git commit -m "comment"
+ ->And creating the repo in Git hub and pushing the code into that repo
+ig git  remote origin ---link---
+and then git push --u origin branch name {master}
+ 
