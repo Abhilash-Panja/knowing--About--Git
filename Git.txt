@@ -1,4 +1,4 @@
-Hey Connections What ever the things should be as the Begineer in Git
+Hey Connections What ever the things should be as a Begineer in Git
 Before Deep dive into Git make sure that raise these questions in your mind 
 1.What is Git?
 2.When we use Git?
